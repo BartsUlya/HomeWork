@@ -1,4 +1,4 @@
-Console.WriteLine("Введите несколько чисел");
+Console.WriteLine("Введите количество чисел");
 int numbers = int.Parse(Console.ReadLine()!);
 
 
